@@ -2,7 +2,7 @@
 header {
 	padding: 20px 0;
     margin-bottom: 5px;
-position: relative;
+position: absolute;
 }
 .logoimg{
     margin-top: -8px;
@@ -10,11 +10,11 @@ position: relative;
 width: 60px; height: 60px;
 float: left;
 margin-right: 5px;
-
+position: absolute;
 }
 .titulo
 {	
-    position: absolute;
+    
     font-size: 26px;
 	color: rgb(255, 255, 255);
 	margin-top: 10px;
@@ -29,13 +29,12 @@ header .logo p {
 }
 body{
     background: #000000;
+
 }
-
-
 #Iframe-Liason-Sheet {
     max-width: 760px;
     max-height: 1200px;
-    overflow: hidden;
+
     }
     /* inner wrapper: make responsive */
     .responsive-wrapper {
@@ -57,7 +56,7 @@ body{
     /* padding-bottom = h/w as a % */
     .responsive-wrapper-wxh-760x1200 {
     padding-bottom: 363.6364%;
-   
+    margin-top: 80px;
     }
     .iframe-border {
     border: 1px solid #000;

@@ -56,7 +56,7 @@ body{
     /* padding-bottom = h/w as a % */
     .responsive-wrapper-wxh-760x1200 {
     padding-bottom: 363.6364%;
-    margin-top: 80px;
+    margin-top: 75px;
     }
     .iframe-border {
     border: 1px solid #000;
@@ -65,82 +65,3 @@ body{
     margin-left: auto !important;
     margin-right: auto !important;
     }
-/* ------------------------- 
-@media screen and (min-width: 1127px) {
-    .titulo{
-		font-size: 26px;
-		margin-top: 12px;
-	}
-}
-@media screen and (max-width: 1110px) {
-    .titulo{
-		font-size: 26px;
-		margin-top: 12px;
-	}
-
-}
-
-
-@media screen and (min-width: 1000px) {
-    .titulo{
-		font-size: 25px;
-		margin-top: 10px;
-	}
-
-}
-
-@media screen and (max-width: 950px) {
-    .titulo{
-		font-size: 25px;
-		margin-top: 10px;
-	}
-
-}
-
-
-@media screen and (max-width: 885px) {
-    .titulo{
-		font-size: 24px;
-		margin-top: 9px;
-	}
-}
-@media screen and (max-width: 853px) {
-    .titulo{
-		font-size: 24px;
-		margin-top: 19px;
-	}
-}
-@media screen and (max-width: 700px) {
-    .titulo{
-		font-size: 23px;
-		margin-top: 8px;
-	}
-}
-@media screen and (max-width: 685px) {
-    .titulo{
-		font-size: 22px;
-		margin-top: 8px;
-	}
-}
-@media screen and (max-width: 655px) {
-    .titulo{
-		font-size: 21px;
-		margin-top: 7px;
-	}
-   /* .responsive-wrapper-wxh-760x1200 {
-        padding-bottom: 100%;
-        
-}
-}*/
-/*
-@media screen and (max-width: 574px) {
-	
-    .titulo{
-		font-size: 19px;
-		margin-top: 7px;
-	}
-    .responsive-wrapper-wxh-760x1200 {
-        padding-bottom: 100%;
-        }
-    }
-   */
